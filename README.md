@@ -1,10 +1,10 @@
 # Main Class
 Test Program
 
-## Inheritance and Encapsulation Class
+# Inheritance and Encapsulation Class
 Gym Equipment
 
-### Five Sub Class
+# Five Sub Class
 Treadmill
 Stationary Bike
 Incline Bench Press
