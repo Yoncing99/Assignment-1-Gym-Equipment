@@ -1,12 +1,12 @@
-# Main Class
+## Main Class
 Test Program
 https://github.com/Yoncing99/Assignment-1-Gym-Equipment/blob/master/TestProgram.java
 
-# Inheritance and Encapsulation Class
+## Inheritance and Encapsulation Class
 Gym Equipment
 https://github.com/Yoncing99/Assignment-1-Gym-Equipment/blob/master/GymEquipment.java
 
-# Five Sub Class
+## Five Sub Class
 Treadmill
 https://github.com/Yoncing99/Assignment-1-Gym-Equipment/blob/master/Treadmill.java
 
@@ -21,3 +21,7 @@ https://github.com/Yoncing99/Assignment-1-Gym-Equipment/blob/master/DumbbellsSet
 
 Barbells Set
 https://github.com/Yoncing99/Assignment-1-Gym-Equipment/blob/master/BarbellsSet.java
+
+## Output
+Output
+https://github.com/Yoncing99/Assignment-1-Gym-Equipment/blob/master/Output-A1.docx
